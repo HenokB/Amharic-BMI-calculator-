@@ -1,4 +1,4 @@
-# bmi_calculator
+# This is an Amharic language BMI calculator
 
 A new Flutter application.
 
