@@ -4,8 +4,7 @@ A new Flutter application.
 
 Project Demo
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://gifs.com/gif/MZB89R)
-
+![gif](https://user-images.githubusercontent.com/46082799/154283858-d7a00384-f116-45e5-94d9-c0657657103b.gif)
 
 
 
