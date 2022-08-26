@@ -1,7 +1,5 @@
 # This is an Amharic language BMI calculator
 
-A new Flutter application.
-
 Project Demo
 
 ![gif](https://user-images.githubusercontent.com/46082799/154283858-d7a00384-f116-45e5-94d9-c0657657103b.gif)
