@@ -5,14 +5,11 @@ Project Demo
 ![gif](https://user-images.githubusercontent.com/46082799/154283858-d7a00384-f116-45e5-94d9-c0657657103b.gif)
 
 
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-
-
 
 
 
